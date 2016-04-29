@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="6976872b-b2fe-4f4a-8c8c-07bc6eb1a6b0" 
+        solutionId="6976872b-b2fe-4f4a-8c8c-07bc6eb1a6b0" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="WorkflowPermissions"
+        sharePointProductVersion="15.0">
+</package>
